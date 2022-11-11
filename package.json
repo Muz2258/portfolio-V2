@@ -1,0 +1,22 @@
+{
+	"name": "portfolio-v2",
+	"version": "1.0.0",
+	"description": "Personal portfolio website",
+	"main": "index.js",
+	"scripts": {
+		"watch:sass": "node-sass sass/main.scss css/styles.css -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Muz2258/portfolio-V2.git"
+	},
+	"author": "Emamuzo Okerri",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Muz2258/portfolio-V2/issues"
+	},
+	"homepage": "https://github.com/Muz2258/portfolio-V2#readme",
+	"devDependencies": {
+		"node-sass": "^8.0.0"
+	}
+}
